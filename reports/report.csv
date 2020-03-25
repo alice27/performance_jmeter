@@ -1,0 +1,17 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1585127992564,1458,navigate_to_main_page,200,OK,Users 1-1,text,true,,6277,93,2,2,https://training.flooded.io/,1451,0,1201
+1585127993070,957,navigate_to_main_page,200,OK,Users 1-2,text,true,,6277,93,2,2,https://training.flooded.io/,946,0,700
+1585127995020,1602,click_on_fist_step,200,OK,Users 1-2,text,true,,5521,781,2,2,https://training.flooded.io:443/step/2,1602,0,1371
+1585127995329,1587,click_on_fist_step,200,OK,Users 1-1,text,true,,5521,781,2,2,https://training.flooded.io:443/step/2,1587,0,1137
+1585127996941,696,select_age,200,OK,Users 1-2,text,true,,6707,781,2,2,https://training.flooded.io:443/step/3,696,0,0
+1585127997262,2099,select_age,200,OK,Users 1-1,text,true,,6707,781,2,2,https://training.flooded.io:443/step/3,2099,0,1108
+1585127998487,1579,select_an_order_with_the_highest_value,200,OK,Users 1-2,text,true,,3770,781,2,2,https://training.flooded.io:443/step/4,1579,0,1129
+1585127999680,1528,select_an_order_with_the_highest_value,200,OK,Users 1-1,text,true,,3772,781,2,2,https://training.flooded.io:443/step/4,1527,0,1308
+1585128000589,1551,click_on_easy_step,200,OK,Users 1-2,text,true,,3268,781,2,2,https://training.flooded.io:443/step/5,1551,0,1112
+1585128001592,671,click_on_easy_step,200,OK,Users 1-1,text,true,,3268,781,2,2,https://training.flooded.io:443/step/5,670,0,0
+1585128002152,225,ajax_request,200,OK,Users 1-2,text,true,,1024,775,2,2,https://training.flooded.io//code,224,0,0
+1585128002269,217,ajax_request,200,OK,Users 1-1,text,true,,1024,775,2,2,https://training.flooded.io//code,217,0,0
+1585128002635,1537,set_one_time_token,200,OK,Users 1-2,text,true,,1936,779,2,2,https://training.flooded.io:443/done,1537,0,1099
+1585128004185,6,Debug Sampler,200,OK,Users 1-2,text,true,,3224,0,2,2,null,0,0,0
+1585128002813,1549,set_one_time_token,200,OK,Users 1-1,text,true,,1936,779,1,1,https://training.flooded.io:443/done,1548,0,1112
+1585128004363,2,Debug Sampler,200,OK,Users 1-1,text,true,,3227,0,1,1,null,0,0,0
